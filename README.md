@@ -2,26 +2,26 @@
 
 Description. 
 The package package_name is used to:
-	- 
-	-
+	- Add
+	- Subtract
+ 	- Multiply
+  	- Divide
+ 	- Calculator
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install calculator_mv
 
 ```bash
-pip install package_name
+pip install calculator_mv
 ```
 
 ## Usage
 
 ```python
-from package_name import file1_name
-file1_name.my_function()
+from calculator.mv import function
+function.add()
 ```
 
 ## Author
-My_name
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+Marcos Vinicius
