@@ -1,4 +1,4 @@
-# package_name
+# calculator_mv
 
 Description. 
 The package package_name is used to:
@@ -25,3 +25,6 @@ function.add()
 
 ## Author
 Marcos Vinicius
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
